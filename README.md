@@ -15,8 +15,9 @@ Einfache Flask-basierte Webanwendung zur Durchführung von grundlegenden mathema
 # 4a) Für Windows User: Erstelle eine virtuelle Umgebung mit: python -m venv env
 # 4b) Für macOS/Linux User: Erstelle eine virtuelle Umgebung mit: source env/bin/activate
 # 5. Installiere Flask: pip install flask
-# 6. Gib in einem neuen Tab den folgenden Link ein: http://127.0.0.1:5000/
-# 7. Jetzt kannst du den Taschenrechner ausprobieren.
+# 6. Starte die Anwendung: python app.py
+# 7. Klicke auf den Link: http://127.0.0.1:5000/
+# 8. Jetzt kannst du den Taschenrechner ausprobieren.
 
 ![image](https://github.com/user-attachments/assets/37eb6955-7f9c-4eec-8d53-e091897f9d47)
 
