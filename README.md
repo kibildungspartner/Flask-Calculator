@@ -10,7 +10,7 @@ Einfache Flask-basierte Webanwendung zur Durchführung von grundlegenden mathema
 
 ## Installation
 
-1. Klone das Repository:
+# 1. Klone das Repository:
    ```bash
    git clone https://github.com/kibildungspartner/Flask-Calculator.git
    
